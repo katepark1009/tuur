@@ -9,7 +9,7 @@ https://docs.google.com/document/d/e/2PACX-1vTu9-tfUnrAeRfMlmBdqOSn-AdwqrCkRLjFq
 - Utilized React.js, PHP, MySQL
 
 
-### Members
+### Team members
 - Jennifer Ong
 - Eric Sung
 - Kevin Yang
