@@ -1,6 +1,6 @@
 # Tuur
 
-https://docs.google.com/document/d/e/2PACX-1vTu9-tfUnrAeRfMlmBdqOSn-AdwqrCkRLjFqvMY9eaDVZhiuDEHoB0ncBTxVavIDMxgB65NutnOlSr3/pub
+[Mock](https://www.figma.com/file/L7YaF3nmevgmTlkIi7mgkRzp/Final-Project?node-id=46%3A36)
 
 - A two-sided matching market app aimed to connect local people for an authentic and cultural experience.  
 - Tuur allows users to request for a tour or become a tour guide in their local area.
