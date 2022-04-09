@@ -28,7 +28,7 @@
     "mapbox-gl-geocoder": "^2.0.1",
     "material-ui-enhanced-fields": "^1.0.2",
     "material-ui-selectfield": "^1.0.24",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "npm": "^6.9.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
